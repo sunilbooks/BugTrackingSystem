@@ -1,0 +1,137 @@
+body,td,th {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #464646;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #EEEEEE;
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-size: 10px;
+}
+
+.style2 {
+	color: #848E1A;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+a:link {
+	color: #ff3300;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ff3300;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.style4 {
+	color: #FFFFFF
+}
+
+.style5 {
+	color: #848E1A;
+	font-weight: bold;
+}
+
+.title {
+	color: #464646;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.subtitle {
+	color: #848E1A;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.button {
+	color: #464646;
+	font-size: 11px;
+}
+
+input {
+	color: #464646;
+	font-size: 11px;
+}
+
+select {
+	color: #464646;
+	font-size: 11px;
+}
+
+.treeLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+
+.treeLink:hover {
+	cursor: hand;
+	text-decoration: underline;
+	color: #000099;
+}
+
+.treeLink:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: White;
+	text-decoration: none;
+}
+
+.formLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000099;
+	text-decoration: none;
+}
+
+.formLink:hover {
+	cursor: hand;
+	text-decoration: underline;
+	color: #666666;
+}
+
+.basicLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+.basicLink:hover {
+	cursor: hand;
+	text-decoration: underline;
+}
+
+.dataTable {
+	border-collapse: separate;
+	border-width: 1PX;
+	border-color: #333333;
+}
+
+.cellValue {
+	COLOR: navy;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 7pt;
+	FONT-WEIGHT: normal
+}

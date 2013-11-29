@@ -1,0 +1,173 @@
+body {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#wrap {
+	width: 800px;
+	text-align: left;
+	background: url(images/bg.gif) no-repeat;
+	margin: 0 auto;
+}
+
+#header {
+	height: 157px;
+	background: url(images/hd_bg.gif) no-repeat;
+}
+
+#header h1#logo {
+	font-size: 48px;
+	padding-top: 40px;
+	padding-left: 90px;
+	background: url(images/logo.gif) no-repeat 40px 45px;
+}
+
+#header h1#logo span {
+	font-size: 21px;
+	color: #599cad;
+}
+
+ul#nav li {
+	display: inline;
+	padding: 0 16px;
+}
+
+ul#nav a {
+	color: #fff;
+}
+
+ul#nav a:hover {
+	color: #000;
+	text-decoration: underline
+}
+
+ul#nav {
+	padding-top: 20px;
+	padding-left: 180px;
+}
+
+#content {
+	padding: 45px;
+}
+
+#content #left {
+	width: 200px;
+	float: left;
+	font-size: 13px;
+}
+
+#content #left h2 {
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+
+#content #right {
+	width: 460px;
+	float: right;
+}
+
+#gallery {
+	background: url(images/gallery.gif) no-repeat;
+	height: 264px;
+}
+
+#section {
+	height: 189px;
+	padding-bottom: 20px;
+}
+
+#section ul {
+	padding-left: 40px;
+	padding-top: 18px;
+}
+
+#section li a {
+	text-decoration: underline;
+	color: #146894;
+	line-height: 20px;
+}
+
+#section li a:hover {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+#section li {
+	list-style-image: url(images/icon.gif);
+}
+
+#footer #ftlink {
+	padding-top: 20px;
+}
+
+#footer #ftlink,#footer #ftlink a {
+	color: #0c70a6;
+}
+
+#footer {
+	margin-top: 15px;
+	clear: both;
+	height: 138px;
+	text-align: center;
+}
+
+#footer a {
+	color: #000;
+}
+
+#footer #ftlink a:hover {
+	color: #0000FF;
+	text-decoration: underline
+}
+
+#ftlink,#copyright {
+	padding-bottom: 8px;
+}
+
+#blog p {
+	padding-top: 15px;
+}
+
+#blog p.qoute {
+	background: url(images/quote.gif) no-repeat;
+	color: #8a6f00;
+	line-height: 26px;
+	padding: 0 5px;
+}
+
+#blog {
+	height: 226px;
+	margin-top: 55px;
+}
+
+.blog {
+	float: left;
+	width: 190px;
+}
+
+#blog .first {
+	padding-right: 45px;
+}
+
+#blog h2 {
+	color: #f5c715;
+}
+
+#right h2 {
+	font-size: 24px;
+	padding: 10px 0 0 15px;
+}
+
+.style2 {
+	color: #848E1A;
+	width: 190px;
+	font-weight: bold;
+	font-size: 12px;
+}
